@@ -1,0 +1,50 @@
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .top_left{
+        display: none;
+    }
+    
+    .top_midle{
+        padding-top: 10px;
+        text-align: center;
+    }
+    .header_right{
+        display: none;
+    }
+
+    .menu__item ul li{
+        text-align: center;
+        margin-bottom: 5px;
+        width: 50%;
+    }
+    .search_area{
+        display: none;
+    }
+
+    .slider_area{
+        display: none;
+    }
+    
+    .service_part h2{
+        font-size: 45pt !important;
+    }
+    .web_app{
+        margin-bottom: 20px;
+    }
+
+    #our_activies_area{
+        padding-top: 30px !important;
+        padding-bottom: 50px;
+    }
+    .count_icon{
+        padding: 20px !important;
+    }
+    .count_icon_s{
+        padding: 20px 30px !important;
+    }
+    .count_icons{
+        padding: 20px 25px !important
+    }
+    .text-center{
+        display: flex;
+    }
+}
